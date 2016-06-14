@@ -6,3 +6,6 @@ Current Self Service Automatic washes have a point of sale (POS Systems) system 
 
 ###Solution
 Build a better Point of Sale System with less complexity and modern technology.
+
+###Idea
+##Market
