@@ -17,10 +17,10 @@ There is a carwash technology gap today --Business owners have no standard techn
 |Percent of car washes owned by small business persons| 90% |
 
 ###Problem
-Current Self Service Automatic washes have a point of sale (POS Systems) system that lack basic features and modern technology. They are poorly designed for HCI(Human Computer Interaction). Manufacters are charging a premium for a  POS system, then charging for what should be basic features like -- Fast credit card processing, reciept printers, web servers, networking capability, faster than dail up connection, and credit card readers. When the POS system breaks down, they are so complex most cases require you to replace the entire system!
+The carwash experience sucks and managing it is even worse. The self serve carwash industry is experiencing a lack of adoption to modern technologies an ammentities. The lack of technology in the indusrty is being met with subpar last-gen technologies from several companies who are over charging small business owners. 
 
 ###Solution
-Build a better Point of Sale System with less complexity and modern technology for less utilizing open source technology.
+Build a better self serve carwash management platform with modern data analytic tools and touch screen pos systems to interact with customers in a engaging, modern way. 
 
 ###Market
 
