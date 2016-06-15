@@ -28,9 +28,9 @@ Build a better self serve carwash management platform with modern data analytic 
 
 ###Business Model
 SaaS ( System as a Service ) 
-1) How much does it cost to acquire a customer?
-2) How much cash will mako generate from that customer, over a lifetime with you?
-3) How do your costs break down, per unit on a montly basis?
+1. How much does it cost to acquire a customer?
+2. How much cash will mako generate from that customer, over a lifetime with you?
+3. How do your costs break down, per unit on a montly basis?
 
 ###Team 
 
