@@ -14,7 +14,7 @@ There is a carwash technology gap today --Business owners have no standard techn
 | # of self-serve Carwashes     | 36,000      |  
 | # of in-bay automatics | 58,000      |    
 | # of cars washed annually| $2.3 Billion |
-|Percent of car washes owned by small business persons| %90 |
+|Percent of car washes owned by small business persons| 90% |
 
 ###Problem
 Current Self Service Automatic washes have a point of sale (POS Systems) system that lack basic features and modern technology. They are poorly designed for HCI(Human Computer Interaction). Manufacters are charging a premium for a  POS system, then charging for what should be basic features like -- Fast credit card processing, reciept printers, web servers, networking capability, faster than dail up connection, and credit card readers. When the POS system breaks down, they are so complex most cases require you to replace the entire system!
