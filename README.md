@@ -1,5 +1,5 @@
 # mako
-A Carwash Managment Platform
+A Carwash Management Platform
 ###Overview
 Mako is a **point of sale platform to manage your carwash** from sale to business intelligence.  
 ###Opportunity
