@@ -32,5 +32,7 @@ SaaS ( System as a Service Monthly )
 ###Team 
 
 ###Use of Funds
-
+1. Ramp up sales
+2. Optimize the platform for scale
+3. Innovate platfrom for needs of customers
 
