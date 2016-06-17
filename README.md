@@ -42,6 +42,11 @@ SaaS ( System as a Service Monthly )
 2. Optimize the platform for scale
 3. Innovate platfrom for needs of customers
 
+###Long term goals
+1. **Open source industry standard API.** Manufactures can create tools to interact with different carwash technologies. 
+2. **Introduce a self serve POS kiosk. ** A complete sale system for all carwash bays that communicate with the dashboard technology for powerful business analytics.
+3. **Sensors** Using the industry standard API, manufactures can give developers access to sensors for reporting. Ex. Carwash soap sensors that display levels and send alerts.
+4. **Next generation eco-friendly ** Carwashes that use half the water and chemicals to get your car 30% cleaner. 
 #How is the product different from competitors?
 1. Sub 5,000 dollar price.
 2. Continued upgrades and support over time.
@@ -49,3 +54,4 @@ SaaS ( System as a Service Monthly )
 4. 100% touch screen based.
 5. Simplicity. It just works.
 6. Fluid. By being a small company we can have new features quicker , and react to customers faster.
+7. Innovation.
