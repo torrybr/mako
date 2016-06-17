@@ -48,3 +48,4 @@ SaaS ( System as a Service Monthly )
 3. Power dashboard for ultimate control over the entire carwash.
 4. 100% touch screen based.
 5. Simplicity. It just works.
+6. Fluid. By being a small company we can have new features quicker , and react to customers faster.
