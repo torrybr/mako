@@ -23,6 +23,7 @@ The carwash experience sucks and managing it is even worse. The self serve carwa
 Build a better self serve carwash management platform with modern data analytic tools and touch screen pos systems to interact with customers in a engaging, modern way. 
 
 ###Market
+Small business owners who operate a carwash with self server automatic washes intially. Long term, small business owners who have both in bay automatics and self service bays. 
 
 ###Competition
 [Unitec](http://www.startwithunitec.com/C-Start)
