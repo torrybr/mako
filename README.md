@@ -25,7 +25,7 @@ Build a better self serve carwash management platform with modern data analytic 
 ###Market
 
 ###Competition
-
+[logo]: http://www.startwithunitec.com/uploader/uploads/2015April15/76-100-175-232/c-start-new-shot.jpg "Unitec"
 ###Business Model
 SaaS ( System as a Service Monthly )
 
