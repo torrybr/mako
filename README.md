@@ -26,8 +26,9 @@ Build a better self serve carwash management platform with modern data analytic 
 Small business owners who operate a carwash with self server automatic washes intially. Long term, small business owners who have both in bay automatics and self service bays. 
 
 ###Competition
-[Unitec](http://www.startwithunitec.com/C-Start)
-![alt tag](http://www.startwithunitec.com/uploader/uploads/2015April15/76-100-175-232/c-start-new-shot.jpg)
+1. http://www.startwithunitec.com/C-Start
+2. http://www.hamiltonmfg.com/product/htkcarwash/
+
 ###Business Model
 SaaS ( System as a Service Monthly )
 
@@ -41,3 +42,4 @@ SaaS ( System as a Service Monthly )
 2. Optimize the platform for scale
 3. Innovate platfrom for needs of customers
 
+#How is the product different from competitors?
